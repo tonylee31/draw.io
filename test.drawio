@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="28.2.5" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5" pages="2">
   <diagram id="kQH21KOuZ4HJOIcbzb3M" name="Page-1">
-    <mxGraphModel dx="1186" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="976" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -185,7 +185,7 @@
           <mxGeometry x="10" y="40" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ic-C59_84F41MBexaPU3-9" value="&lt;font color=&quot;#ffffff&quot;&gt;Private Banking&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;私人銀行&lt;/font&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#2578BD;strokeColor=#808080;fillStyle=auto;gradientColor=none;startSize=30;" parent="ZkbSD-9M9XnzrFuM8oNQ-15" vertex="1">
-          <mxGeometry x="1020" y="370" width="130" height="220" as="geometry" />
+          <mxGeometry x="1340" y="50" width="130" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Ic-C59_84F41MBexaPU3-2" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;PB Entitlement System&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="Ic-C59_84F41MBexaPU3-9" vertex="1">
           <mxGeometry x="10" y="40" width="100" height="30" as="geometry" />

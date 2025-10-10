@@ -1,0 +1,41 @@
+How does the solution uniquely identify Principal workforce users including process IDs?
+ 	
+How does the solution uniquely identify users as individuals that are not Principal workforce members?  
+	 	 	 	 	 
+Does the solution enforce authorization to data and services?
+ 	
+Does your solution follow Principal's minimum password standards?  (See  Principal Information Security and Technology Standards .)
+
+Does the information system being assessed impose a maximum limit of 4 consecutive invalid login attempts by a user before automatically locking their accounts and leaving them locked until an administrator unlocks the account?
+ 
+How does your solution implement multi-factor authentication for privileged or elevated rights accounts?
+	 	 	 	 	 	 
+Does your solution implement multi-factor authentication for non-privileged accounts? 
+
+Does the solution terminate shared/group account credentials when members leave the group?
+
+How does the solution automatically disable inactive accounts after a predefined time period has elapsed?  How does your solution remove accounts as users leave the organization or group?
+
+How does the solution ensure that higher sensitivity information doesn't get transferred to or thru a lower sensitivity system?​	 	 	 	 	 
+ 	
+How does your solution encrypt data at rest (stored) including shared secrets?  (ex. Disk level encryption, Database encryption, attribute level encryption) 
+
+Does the solution encrypt all data in transit?
+
+Does your system handle information in accordance with the Enterprise Retention Policy?
+
+What causes a session termination in your solution?  Ex. Logout button, time of day, etc.
+
+Does the solution ensure only essential and authorized network communications are allowed? (ex. Allow List, Deny List, Firewall, WAF, rate limiting, etc.)
+
+Does your solution handle input validation?
+
+Does your solution provide friendly error messages to mask specific system messages? (information that could be used by adversaries to exploit the system)
+
+How are you ensuring that malicious code (including viruses, malware, etc.) is being detected and dealt with at entry and exit points for your solution?
+
+Have you scanned your solution for open source licensing and vulnerability concerns using WhiteSource, and addressed any necessary findings? If WhiteSource can't be used, have you followed the Strategic Sourcing process for approval of any open source?
+ 	 		
+Is your system capturing all the required audit events defined by the organization, including use of privileged functions? 	 	 	 	 
+ 	
+Have you defined BCP/DR expectations with developed systems?  Have you discussed with vendors/hosting providers availability, recovery and contractual aspects of system recovery?
